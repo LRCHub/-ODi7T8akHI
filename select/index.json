@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Dystopia（feat. AYAME）",
+  "base_artist": "Sizuk",
+  "createdAt": "2026-01-13T02:31:51.826023Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dystopia (feat. AYAME)",
+      "artist": "Sizuk",
+      "has_synced": true,
+      "path": "select/01_Dystopia_(feat._AYAME)_Sizuk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dystopia (feat. AYAME (from AliA))",
+      "artist": "Sizuk",
+      "has_synced": true,
+      "path": "select/02_Dystopia_(feat._AYAME_(from_AliA))_Sizuk.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dystopia feat. AYAME (from AliA)",
+      "artist": "Sizuk",
+      "has_synced": false,
+      "path": "select/pl_01_Dystopia_feat._AYAME_(from_AliA)_Sizuk.txt"
+    }
+  ]
+}
